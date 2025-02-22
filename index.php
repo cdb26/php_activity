@@ -1,3 +1,3 @@
 <?php
-echo "Hello, World! This is a PHP script.";
+echo "Hello, GitHub! This is an updated PHP script.";
 ?>
